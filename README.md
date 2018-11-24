@@ -2,6 +2,7 @@
 
 ## Description 
   This Website shows information about movies and TV series. It uses basic html css js and php.
+  Its a completely **responsive** website
   The main features of this website are :
   1. Home Page 
       - Shows Top, Popular, Now In Cinemas/On TV
@@ -21,7 +22,7 @@
   7. Advanced Search
         - User can search by Actor, Director, Producer, Movie, Tv
   8. Login/signup
-        - User can login or signuo to rate a movie
+        - User can login or signup to rate a movie
   
 ### Support
  Contact Us at : hameez21@live.com
